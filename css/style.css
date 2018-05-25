@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  font-family: helvetica;
+}
+
+h2,
+h3,
+p {
+  color: dimgray;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+a {
+  font-size: 18px;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight bold;
+}
+
+p {
+  font-size: 14px;
+}
+.header,
+.subhead {
+  color: white;
+  background-image: url(..resources/images/the-flatiron-bulding.png);
+}
